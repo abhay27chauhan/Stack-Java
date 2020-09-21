@@ -9,3 +9,5 @@ infixEvaluation.class
 infixConversion.class
 postfixEvalAndConversion.class
 celebrityProblem.class
+mergeOverlappingInterval.class
+mergeOverlappingInterval$Pair.class
