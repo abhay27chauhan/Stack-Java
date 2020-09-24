@@ -14,3 +14,5 @@ mergeOverlappingInterval$Pair.class
 smallestNumberFollowingPattern.class
 buildNormalStack.class
 buildNormalStack$CustomStack.class
+buildDynamicStack.class
+buildDynamicStack$CustomStack.class
