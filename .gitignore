@@ -18,3 +18,5 @@ buildDynamicStack.class
 buildDynamicStack$CustomStack.class
 MinStack1.class
 MinStack1$MinStack.class
+MinStack2.class
+MinStack2$MinStack.class
