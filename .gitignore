@@ -22,3 +22,5 @@ MinStack2.class
 MinStack2$MinStack.class
 stackToQueueAdapter1.class
 stackToQueueAdapter1$StackToQueueAdapter.class
+StackToQueueAdapter2$StackToQueueAdapter.class
+StackToQueueAdapter2.class
