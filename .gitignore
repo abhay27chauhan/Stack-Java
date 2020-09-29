@@ -24,3 +24,5 @@ stackToQueueAdapter1.class
 stackToQueueAdapter1$StackToQueueAdapter.class
 StackToQueueAdapter2$StackToQueueAdapter.class
 StackToQueueAdapter2.class
+TwoStacksInAnArray.class
+TwoStacksInAnArray$TwoStacks.class
