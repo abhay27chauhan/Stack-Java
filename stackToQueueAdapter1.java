@@ -31,17 +31,7 @@ class stackToQueueAdapter1{
                 System.out.println("Queue Underflow");
                 return -1;
             }else{
-                while(mainS.size()>1){
-                    helperS.push(mainS.pop());
-                }
-
-                int val = mainS.pop();
-
-                while(helperS.size() > 0){
-                    mainS.push(helperS.pop());
-                }
-
-                return val;
+                return mainS.pop();
             }
         }
 
@@ -50,18 +40,7 @@ class stackToQueueAdapter1{
                 System.out.println("Queue Underflow");
                 return -1;
             }else{
-                while(mainS.size()>1){
-                    helperS.push(mainS.pop());
-                }
-
-                int val = mainS.pop();
-                helperS.push(val);
-
-                while(helperS.size() > 0){
-                    mainS.push(helperS.pop());
-                }
-
-                return val;
+                return mainS.peek();
             }
         }
 
